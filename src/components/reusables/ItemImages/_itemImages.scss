@@ -1,0 +1,22 @@
+.item {
+  &__images {
+    &-controls {
+      top: 40%;
+      width: 251px;
+      left: -15px;
+      .control {
+        background-color: #FFF;
+        @apply transition p-2 rounded-full w-8 h-8 flex items-center justify-center font-bold cursor-pointer hover:bg-primary hover:text-white;
+      }
+    }
+    .image {
+      transition: display 0.3s ease-in-out;
+      max-width: 221px;
+      max-height: 148px;
+      @apply transition hover:opacity-60 h-[148px] w-[221px] bg-gray
+    }
+  }
+  &__description {
+    color: #8a8a8a;
+  }
+}

@@ -1,0 +1,35 @@
+id: "swan-valley-to-jurien-bay-wine-tasting-sea-lion-safari-and-exploring-the-pinnacles-desert"
+projected_travel_date: "May 2021"
+region_name: "Swan Valley"
+title: "Swan Valley to Jurien Bay: Wine tasting, sea lion safari & exploring the Pinnacles Desert"
+description: "4 Days, 3 Nights â€“ Escape the bustling city life to discover Western Australiaâ€™s picturesque region of Swan Valley before heading inland to the heritage town of Toodyay and up towards Cervantes and Jurien Bay. Delight your taste buds as you indulge in exquisite wines at your own private vineyard cottage, and sample local coffee and honey on a delightful horse-drawn wagon tour. Then, explore the regionâ€™s natural wonders â€” ride down pure white sand dunes, encounter the famous Pinnacles limestone towers formed 25,000 years ago, swim with sea lions, enter a mysterious cave, and look for adorable koalas in the wild."
+sale_price_raw: 120000
+base_currency: "AUD"
+duration_days: 4
+duration_nights: 3
+countries_count: 1
+activity_level: "Moderate"
+group_size: 2 â€“ 4
+days:
+  - title: "Discover Western Australiaâ€™s oldest wine-growing region and Caversham Wildlife Park"
+    description: "Begin at the **award-winning Upper Reach Winery** with an **all-inclusive a la carte breakfast** followed by a **guided winery tour**. Explore the working winery, taste aromatic wines, and find out why Swan Valley is the premier location for winemaking. Next, head to **Caversham Wildlife Park**, the largest privately-owned collection of native wildlife in Western Australia. Become friends with some of the 200 species at the park; **hand-feed the kangaroos**, **take a photo with a koala**, **meet a wombat** and discover more at their daily interactive farm shows. Towards the evening, take a relaxing stroll on the circuit walk trail at **Bells Rapids Park**. Soak in incredible views of the surrounding countryside and coastal plains and **spot beautiful grey kangaroos**, commonly seen at certain months of the year. Finally, unwind back at the Upper Reach Winery Cottage. This idyllic stay is set in the heart of the wineryâ€™s 20-acre vineyard for ultimate privacy. Best of all, Cellar Door, the wineryâ€™s wine tasting hideout, is located just a minute away."
+  - title: "Explore one of the regionâ€™s oldest inland towns and go stargazing"
+    description: "Start your morning with breakfast at the wineryâ€™s stunning Riverbrook Restaurant. Head to Cranleigh Street to kickstart your **horse-drawn wagon tour**. This unique experience takes you through the Valley for a gastronomical adventure of **coffee, honey, and wine tastings**. In the afternoon, explore the well-preserved heritage town of **Toodyay**. Uncover the fascinating stories of the townâ€™s colonial past and wine and dine at the Toodyayâ€™s charming selection of cafes and pubs. Then, make your way to **Pinnacles Edge Resort** to check in for your stay for the night. Your day doesnâ€™t end there. Kickstart the nightâ€™s extraordinary adventures at **Gravity Discovery Centre & Observatory**, Western Australiaâ€™s premier science and education center for Physics and Astronomy. After dinner at the center, embark on a **world-class stargazing tour** to uncover the mysteries of space and beyond. Return to the resort after your tour to recharge for another exciting day tomorrow."
+  - title: "Be inspired by nature at the Lancelin Sand Dunes, Nambung National Park, and Jurien Bay"
+    description: "Fuel your morning with an add-on continental breakfast at the resort and begin your exciting day at the **Lancelin Sand Dunes**. Scale pure white sand dunes that rise to over three stories high and descend on sandboards, available for rent on-site. Next, explore **Nambung National Parkâ€™s famous limestone formations**. These otherworldly formations rose from the shifting yellow sands of the **Pinnacles Desert** over 25,000 years ago, creating one of Australiaâ€™s most intriguing landscapes. After a morning of exploration, visit the famous **Lobster Shack** for a beachfront lunch of Western Rock Lobsters and a **tour of the lobster factory**. Once youâ€™ve had your fill, head to **Jurien Bay** for a **sea lion boat safari and snorkeling expedition**. Catch sight of adorable sea lions and dive into crystal clear waters to discover the wildlife beneath the surface. All equipment is supplied and light refreshments are also provided for a quick pick-me-up. Finally, return to the resort for dinner and rest."
+  - title: "Visit Perthâ€™s only tourist cave and see koalas at the Yanchep Koala Boardwalk"
+    description: "Wake up to a hearty breakfast at the resort, then head to the **Turquoise Way Trail** for an invigorating morning bike ride through the picturesque trail. Soak in incredible views of the **Hill River estuary**, **pristine beaches**, and **turquoise blue waters**. Grab lunch along the way as you make your way to the elusive **Yanchep Crystal Caves**. Go underground for an educational tour of the ecology, geology, and history of Perthâ€™s only tourist cave. Once youâ€™ve resurfaced from the caves, stroll to the **Yanchep Koala Boardwalk**, located just a stone throw away. Say hello to the colony of koalas that call Yanchep home and be surrounded by lush bushland. Your journey concludes here as you head for Perth Airport for a flight bound for home."
+hotels:
+  - title: "Upper Reach Winery Spa Cottage"
+    description: "If youâ€™re looking for a break from city life, the tranquil Upper Reach Winery Spa Cottage is the place to be. Recharge in your private cottage set in the heart of a 20-acre vineyard. With the wineryâ€™s wine tasting hideout, Cellar Door, and stellar restaurant, Riverbrook Restaurant, located just a few minutes away, a stay here is tranquility and peace at its best. The cottage comes with two queen-sized bedrooms in addition to its kitchen and living room spaces."
+  - title: "Pinnacles Edge Resort"
+    description: "From the out-of-this-world Pinnacle Desert region to the crystal clear waters of Jurien Bay, the Pinnacles Edge Resort puts you in the center of the areaâ€™s best attractions. Recharge in the resortâ€™s modern suites, complete with a private balcony, spa bath, and fully-equipped kitchen. If youâ€™re feeling hungry, head to the resortâ€™s on-site restaurant, the Europa Anchor, for a feast of fresh seafood and Mediterranian cuisine."
+included_in_price:
+  - 4 Nights accommodation (2 people per room)
+  - 1 night at Upper Reach Spa Cottage
+  - 2 nights at Pinnacles Edge Resort
+  - 2 x Breakfasts at Upper Reach Spa Cottage
+  - All activities
+  - 24/7 guest support
+excluded_in_price:
+  - All lunches and dinners
