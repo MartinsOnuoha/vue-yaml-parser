@@ -3,6 +3,20 @@
 A Demo Tourhero Component
 ![image-preview](https://raw.githubusercontent.com/MartinsOnuoha/tourhero-demo/master/public/demo.gif)
 
+- [tourhero-preview-component](#tourhero-preview-component)
+  - [Demo](#demo)
+  - [Tools Used](#tools-used)
+  - [Project setup](#project-setup)
+    - [Compiles and hot-reloads for development](#compiles-and-hot-reloads-for-development)
+    - [Compiles and minifies for production](#compiles-and-minifies-for-production)
+    - [Run your unit tests](#run-your-unit-tests)
+    - [Run your end-to-end tests](#run-your-end-to-end-tests)
+    - [Lints and fixes files](#lints-and-fixes-files)
+
+## Demo
+
+Here's a [live demo](https://tourhero-demo.surge.sh)
+
 ## Tools Used
 
 - Vue

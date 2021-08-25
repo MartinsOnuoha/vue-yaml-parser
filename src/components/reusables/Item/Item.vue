@@ -22,9 +22,7 @@
 
 <script>
 import marked from 'marked';
-import ItemImages from '@/components/reusables/ItemImages/ItemImages.vue';
 import { truncate } from '@/utils/helpers';
-import ItemSideline from '@/components/reusables/ItemSideline/ItemSideline.vue';
 
 export default {
   name: 'Item',
@@ -47,8 +45,8 @@ export default {
     },
   },
   components: {
-    ItemImages,
-    ItemSideline,
+    ItemImages: () => import('@/components/reusables/ItemImages/ItemImages.vue'),
+    ItemSideline: () => import('@/components/reusables/ItemSideline/ItemSideline.vue'),
   },
   methods: {
     format(text, len) {

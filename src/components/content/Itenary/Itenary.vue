@@ -29,7 +29,6 @@
   }
 </style>
 <script>
-import Item from '@/components/reusables/Item/Item.vue';
 import ItenaryData from '@/assets/data.yaml';
 
 const staticImages = [
@@ -42,7 +41,7 @@ const staticImages = [
 export default {
   name: 'Itenary',
   components: {
-    Item,
+    Item: () => import('@/components/reusables/Item/Item.vue'),
   },
   computed: {
     itenaries() {
