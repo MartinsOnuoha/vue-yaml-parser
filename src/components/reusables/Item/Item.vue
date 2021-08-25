@@ -1,6 +1,6 @@
 <template>
   <div class="flex">
-    <div class="side-line"></div>
+    <item-sideline></item-sideline>
     <article class="item flex h-full mt-8">
       <ItemImages :images="images" />
       <div class="item__details flex flex-col ml-7 h-full">
@@ -24,6 +24,7 @@
 import marked from 'marked';
 import ItemImages from '@/components/reusables/ItemImages/ItemImages.vue';
 import { truncate } from '@/utils/helpers';
+import ItemSideline from '@/components/reusables/ItemSideline/ItemSideline.vue';
 
 export default {
   name: 'Item',
@@ -47,6 +48,7 @@ export default {
   },
   components: {
     ItemImages,
+    ItemSideline,
   },
   methods: {
     format(text, len) {
