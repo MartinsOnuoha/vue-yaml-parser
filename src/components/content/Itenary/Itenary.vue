@@ -1,8 +1,13 @@
 <template>
-  <section>
-    <h5 class="text-primary">Itienary</h5>
+  <section class="itenary flex-col justify-center">
+    <div class="header-text">
+      <h3 class="text-primary font-semibold">
+        <font-awesome-icon class="mr-2" icon="route" :style="{ color: '#a3c6c9' }" />
+        Itienary
+      </h3>
+    </div>
     <div class="flex items-center flex-col">
-      <div class="" v-for="({ images, title, description }, index) in itenaries" :key="index">
+      <div class="items" v-for="({ images, title, description }, index) in itenaries" :key="index">
         <item
           :dayNumber="index + 1"
           :title="title"
@@ -14,10 +19,13 @@
   </section>
 </template>
 
-<style lang="scss">
+<style lang="scss" scoped>
   .itenary {
-    display: flex;
-    justify-content: center;
+    .header-text {
+      margin-bottom: 10px;
+      margin-left: -45rem;
+      font-size: 20px;
+    }
   }
 </style>
 <script>
@@ -36,13 +44,10 @@ export default {
   components: {
     Item,
   },
-  data() {
-    return {
-      itenaries: ItenaryData.days.map((day) => ({ images: staticImages, ...day })),
-    };
-  },
-  mounted() {
-    console.log(this.itenaries);
+  computed: {
+    itenaries() {
+      return ItenaryData.days.map((day) => ({ images: staticImages, ...day }));
+    },
   },
 };
 </script>

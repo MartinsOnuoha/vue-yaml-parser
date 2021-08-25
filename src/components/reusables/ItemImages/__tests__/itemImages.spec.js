@@ -1,7 +1,7 @@
 import { shallowMount } from '@vue/test-utils';
 import ItemImages from '../ItemImages.vue';
 
-describe('Item.vue', () => {
+describe('ItemImages.vue', () => {
   it('renders props.images when passed', () => {
     const images = [
       { src: 'https://picsum.photos/seed/picsum/450/300' },
