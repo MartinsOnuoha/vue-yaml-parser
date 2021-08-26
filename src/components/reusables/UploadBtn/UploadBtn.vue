@@ -1,7 +1,7 @@
 <template>
   <span class="upload-btn">
     <input @change="selected" accept=".yaml,.md" name="upload" id="upload" type="file" class="text-sm cursor-pointer invisible upload inline-block" />
-    <label for="upload" class="upload-btn w-[150px] p-3 bg-primary text-white cursor-pointer hover:opacity-50 rounded-md">{{ label }}</label>
+    <label for="upload" class="w-[150px] p-3 bg-primary text-white cursor-pointer hover:opacity-50 rounded-md">{{ label }}</label>
   </span>
 </template>
 
