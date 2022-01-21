@@ -1,6 +1,6 @@
-# tourhero-preview-component
+# Vue Yaml Parser
 
-A Demo Tourhero Component
+A Yaml Parser Demo in Vuejs
 ![image-preview](https://raw.githubusercontent.com/MartinsOnuoha/tourhero-demo/master/public/demo.gif)
 
 - [tourhero-preview-component](#tourhero-preview-component)
